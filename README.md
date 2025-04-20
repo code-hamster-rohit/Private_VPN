@@ -77,7 +77,7 @@ We welcome contributions from the community!
 
 ## 📬 Contact
 
-For support, feature requests, or bug reports, please open an issue or contact us at [support@privatevpn.com](mailto:support@privatevpn.com).
+For support, feature requests, or bug reports, please open an issue.
 
 ---
 
